@@ -5,19 +5,31 @@
 
 main:
   - name: Home
-    url: '/'
+    url: "/"
     weight: 10
   - name: Courses
-    url: '/course'
+    url: "/course"
     weight: 20
     identifier: courses
   - name: Data science
-    url: '/course/example/'
+    url: "/course/example/"
+    weight: 10
+    parent: courses
+  - name: Business
+    url: "/course/business/"
+    weight: 10
+    parent: courses
+  - name: Digital Marketing
+    url: "/course/digitalmarketing/"
+    weight: 10
+    parent: courses
+  - name: Marketing
+    url: "/course/marketing/"
     weight: 10
     parent: courses
   - name: Blog
-    url: '/post'
+    url: "/post"
     weight: 30
   - name: Contact
-    url: '/contact'
+    url: "/contact"
     weight: 60
