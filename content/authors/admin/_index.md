@@ -6,7 +6,7 @@ title: Manjunath Kalburgi
 superuser: true
 
 # Role/position
-role: Instructor
+role: Software Instructor
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:manju@example.org"
+    link: "mailto:manjunathkalburgi@gmail.com"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/manjunathk
