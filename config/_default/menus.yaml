@@ -12,7 +12,7 @@ main:
     weight: 20
     identifier: courses
   - name: Data science
-    url: "/course/example/"
+    url: "/course/datascience/"
     weight: 10
     parent: courses
   - name: Business
