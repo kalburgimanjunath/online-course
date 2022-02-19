@@ -1,6 +1,6 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
+title: 📊 Learn Marketing
+linkTitle: Marketing
 summary: An example of using Book layout for publishing online courses.
 date: "2021-01-24"
 type: book
