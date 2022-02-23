@@ -1,6 +1,6 @@
 ---
-title: 📊 Learn Business
-linkTitle: Business
+title: 📊 Learn About Facebook Pages
+linkTitle: Facebook
 summary: An example of using Book layout for publishing online courses.
 date: "2021-01-24"
 type: book

@@ -1,6 +1,6 @@
 ---
-title: 📊 Learn About Your Future
-linkTitle: Future
+title: 📊 Learn Joomla
+linkTitle: Joomla
 summary: An example of using Book layout for publishing online courses.
 date: "2021-01-24"
 type: book
